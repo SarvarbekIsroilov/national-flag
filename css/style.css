@@ -5,9 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Nunito Sans', sans-serif;
-
 }
-
 :root {
     --oq-body:#fff;
     --text-color: #111517;
@@ -63,7 +61,6 @@ width: 100%;
     width: 25%;
 
 }
-
 select{
     height: 56px;
     width: 200px;
@@ -89,8 +86,6 @@ select option{
     border-radius: 5px;
     margin-top: 20px;
     line-height: 24px;
-
-
 }
 
 .poisk{
@@ -103,7 +98,6 @@ a{
     text-decoration: none;
     color: var(--text-color);
 }
-count
 .country h3{
     font-family: Nunito Sans;
     font-size: 18px;
@@ -113,7 +107,6 @@ count
     letter-spacing: 0px;
     text-align: left;
     padding: 25px 0;
-
 }
 .country .box {
     height: 336px;
@@ -122,8 +115,6 @@ background-color: var(--oq-body);
     border-radius: 5px;
     overflow: hidden;
     margin: 0 auto;
-
-    
 }
 .country .box p{
     padding: 5px 0;
@@ -189,7 +180,6 @@ input{
 @media screen and (max-width:975px) {
     .flex.bayroq .country{
         width: 50%;
-
     }
     select{
         float: left;
@@ -245,9 +235,6 @@ input{
         width: 100%;
 
     }
-    /* .country .box {
-        height: 536px;
-    } */
     .poisk {
         flex-wrap: wrap;
     }
